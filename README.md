@@ -19,6 +19,5 @@ para fins pessoais, de pesquisa e comerciais. É obrigatório
 distribuir sob a mesma licença (CC-BY-SA 4.0) e atribuir
 créditos ao autor: **Núcleo de Tecnologia do MTST**.
 
-* [Read in english](LICENSE)
-* [Read in portuguese](LICENCA.ptbr)
+* [Full contents in LICENSE](LICENSE)
 
